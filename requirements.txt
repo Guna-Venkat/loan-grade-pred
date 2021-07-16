@@ -1,0 +1,6 @@
+numpy>=1.9.2
+keras==2.4.0
+scikit-learn>=0.22.1
+pandas>=0.19
+streamlit
+joblib==1.0.1
